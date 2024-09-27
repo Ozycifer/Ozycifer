@@ -17,7 +17,7 @@
   
 
 - Understand English (Fluent)
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<img src="./img/Waifu-ahri.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
