@@ -19,7 +19,7 @@
 - Understand English (Fluent)
 <img src="./img/Waifu-ahri.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+<img src="./img/Repo-ahri.png" width="500" />
 <br/>
 <br/>
   
